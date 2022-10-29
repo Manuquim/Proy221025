@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+#contenedor-post {
+    background-color: white;
+    width: 300px;
+    height: auto;
+    margin: auto;
+}
+
+#contenedor-header {
+    width: 100%;
+    background-color: white;   
+}
+#icon5{
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: left;
+    
+}
+#rigobertoHTML{
+    float:left;
+}
+#html5{
+    padding-left: 5px;
+    display: float;
+    margin:0;
+    padding-top: 5px;
+    font-weight: bolder;
+    font-size: small;
+}
+
+#rigoberto{
+    padding-left: 5px;
+    margin: 0;
+    font-size: x-small;
+}
+
+#menu{
+    padding-right: 10px;
+    float:right;
+    display: inline;
+    padding-top: 10px;
+}
+#img-body {
+    width: 100%;  
+}
+#contenedor-footer{
+    padding-top: 10px;
+}
+#contenedor-footer-left{
+    padding-left: 12px;
+    display: inline;
+}
+#contenedor-footer-right{
+    padding-right: 12px;
+    display:inline;
+    float:right;
+}
+#parrafoFinal{
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: x-small;
+    padding-bottom: 15px;
+}
